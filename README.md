@@ -1,6 +1,6 @@
 # 🚀 Machine Learning and Optimization Methods (MLOM) – Labs  
 
-This repository contains my lab sheets and practical exercises for the **Machine Learning and Optimization Methods (MLOM)** module.  
+This repository contains my lab sheets and practical exercises for the **Machine Learning and Optimization Methods (MLOM)** 
 The labs focus on building and improving machine learning models using different techniques and optimization methods.  
 
 ---
